@@ -6,9 +6,9 @@
 
 
 ## Introduction:
-  Intro of the project
-  
-## Table of Contents:
+  To cope with our dull lives in this pandemic with the help to technology, we have developed a platform in which we have included many things to make our lives more interesting and captivating. 
+ 
+## Table of Contents: Index.html, voice.py, memepage.html, instructions.txt
 
 ## Technology Stack:
   1) HTML
@@ -16,7 +16,7 @@
   3) Python
   
 
-## Contributors:
+## Contributors: Lalit Kumar, Shruti Bhateja, Sachin Pandey, Tushar Lalwani
 
 Team Name: DIL SE CODERS
 
