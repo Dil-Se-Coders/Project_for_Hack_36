@@ -1,0 +1,10 @@
+Run these commands on VScode terminal before running the program
+to install the required modules:
+
+pip install pyttsx3
+pip install speechRecognition
+pip install pipwin
+pip install wikipedia
+pipwin install pyaudio
+pipwin install flask
+pip install pypiywin32
